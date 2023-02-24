@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Library Management</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Library Management</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">16856ca7551201107f44d7f62dcafeb2</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-24 04:16:48</sys_created_on>
+        <sys_id>92e0ba8400d961107f44e375e902a2bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Library Management</sys_name>
+        <sys_package display_value="Library Management" source="x_cdltd_library_ma">7f9fa24400d961107f44e375e902a201</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Management">7f9fa24400d961107f44e375e902a201</sys_scope>
+        <sys_update_name>sys_wizard_answer_92e0ba8400d961107f44e375e902a2bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-24 04:16:48</sys_updated_on>
+        <table/>
+        <target_url>x_cdltd_library_ma_library_management.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
