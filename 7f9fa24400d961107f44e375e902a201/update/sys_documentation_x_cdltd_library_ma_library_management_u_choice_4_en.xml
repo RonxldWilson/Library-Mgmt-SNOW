@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_choice_4" label="Item Type" language="en" table="x_cdltd_library_ma_library_management">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_choice_4</element>
+            <help/>
+            <hint/>
+            <label>Item Type</label>
+            <language>en</language>
+            <name>x_cdltd_library_ma_library_management</name>
+            <plural>Item Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-24 08:58:40</sys_created_on>
+            <sys_id>5f61bb0400dd61107f44e375e902a2d6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Item Type</sys_name>
+            <sys_package display_value="Library Management" source="x_cdltd_library_ma">7f9fa24400d961107f44e375e902a201</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library Management">7f9fa24400d961107f44e375e902a201</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_library_ma_library_management_u_choice_4_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-24 09:04:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
