@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-25 08:38:42</sys_created_on>
+        <sys_id>fd3638a00091e1107f44e375e902a273</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_library_ma_library_management.x_cdltd_library_ma.admin</sys_name>
+        <sys_package display_value="Library Management" source="x_cdltd_library_ma">7f9fa24400d961107f44e375e902a201</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Management">7f9fa24400d961107f44e375e902a201</sys_scope>
+        <sys_security_acl display_value="x_cdltd_library_ma_library_management">c0f530240091e1107f44e375e902a22e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fd3638a00091e1107f44e375e902a273</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-25 08:38:42</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_library_ma.admin" name="x_cdltd_library_ma.admin">ccaf682c0051e1107f44e375e902a2be</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

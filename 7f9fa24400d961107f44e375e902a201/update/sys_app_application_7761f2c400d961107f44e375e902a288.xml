@@ -7,14 +7,14 @@
         <hint/>
         <name/>
         <order/>
-        <roles>x_cdltd_library_ma.library_user_requester</roles>
+        <roles>x_cdltd_library_ma.library_user_requester,x_cdltd_library_ma.admin</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-02-24 04:19:05</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7761f2c400d961107f44e375e902a288</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Library Management</sys_name>
         <sys_overrides/>
         <sys_package display_value="Library Management" source="x_cdltd_library_ma">7f9fa24400d961107f44e375e902a201</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Library Management">7f9fa24400d961107f44e375e902a201</sys_scope>
         <sys_update_name>sys_app_application_7761f2c400d961107f44e375e902a288</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-02-24 04:19:05</sys_updated_on>
+        <sys_updated_on>2023-02-25 08:31:20</sys_updated_on>
         <title>Library Management</title>
         <view_name/>
     </sys_app_application>

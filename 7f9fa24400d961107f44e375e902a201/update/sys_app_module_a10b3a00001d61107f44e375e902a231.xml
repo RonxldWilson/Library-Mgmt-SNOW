@@ -19,14 +19,14 @@
         <override_menu_roles>true</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_cdltd_library_ma.library_user_requester,admin</roles>
+        <roles>x_cdltd_library_ma.library_user_requester,x_cdltd_library_ma.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-02-24 05:01:35</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a10b3a00001d61107f44e375e902a231</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Pending</sys_name>
         <sys_overrides/>
         <sys_package display_value="Library Management" source="x_cdltd_library_ma">7f9fa24400d961107f44e375e902a201</sys_package>
@@ -34,7 +34,7 @@
         <sys_scope display_value="Library Management">7f9fa24400d961107f44e375e902a201</sys_scope>
         <sys_update_name>sys_app_module_a10b3a00001d61107f44e375e902a231</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-02-24 05:08:18</sys_updated_on>
+        <sys_updated_on>2023-02-25 08:35:42</sys_updated_on>
         <timeline_page/>
         <title>Pending</title>
         <uncancelable>false</uncancelable>
