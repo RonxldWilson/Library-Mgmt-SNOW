@@ -1,4 +1,5 @@
-# Library-Mgmt-SNOW
-Library Management in ServiceNow 
+# Loan-Mgmt-SNOW
+Loan Management in ServiceNow 
 
-Exploring the capabilities of working with ServiceNow Applications with GitHub
+Exploring the capabilities of working with ServiceNow Applications with GitHub 
+SNOW CAD Labs
